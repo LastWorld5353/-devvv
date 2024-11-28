@@ -1,13 +1,10 @@
-..............................
-<html lang="en">
-<head>
-    <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h>
+
     <title>KMG</title>
     <link rel="shortcut icon" href="resim/icon.ico" type="icon">
+<h>
+ <b>
 
-</head>
-<body>
     <center>
     <table border="1">
     <form>
@@ -84,7 +81,4 @@
             <input type="submit" name="Gönder" id="Gönder" value="Gönder"></td>
     </tr>
     </form>
-</table>
-</center>
-</body>
-</html>
+<b>
