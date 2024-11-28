@@ -1,4 +1,4 @@
-<h>
+<h1>
 
     <title>KMG</title>
     <link rel="shortcut icon" href="resim/icon.ico" type="icon">
